@@ -8,6 +8,15 @@
     margin: 15px 0;
 }
 
+.upper-bar .info a {
+    color: #bfc6c9;
+    text-decoration: none;
+}
+
+.upper-bar .info a i {
+    color: #FFF;
+}
+
 @media(max-width: 576px){
     .upper-bar .info:first-child{
         margin-bottom: 0;
